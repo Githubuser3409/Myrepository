@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+body{
+	background-color: #d2fc9f;
+	text-align: center;
+}
+
+</style>
+
+</head>
+<body>
+	<div class="quiz">
+<h1>Android quiz</h1>
+
+<p>What is the codename for the current version of android?</p>
+
+    <div>
+      <input type="radio" id="a" name="q1" value="Oreo"
+             checked>
+      <label for="Oreo">Oreo</label>
+    </div>
+
+    <div>
+      <input type="radio" id="b" name="q1" value="Carrot cake">
+      <label for="Carrot cake">Carrot cake</label>
+    </div>
+
+    <div>
+      <input type="radio" id="c" name="q1" value="Tiramisu">
+      <label for="Tiramisu">Tiramisu</label>
+    </div>
+
+		<div>
+			<input type="radio" id="d" name="q1" value="Jello">
+			<label for="Jello">Jello</label>
+		</div>
+
+<p>What is the name of Samsung's current android skin?</p>
+
+<div>
+	<input type="radio" id="a" name="q2" value="One ui"
+				 checked>
+	<label for="One ui">One ui</label>
+</div>
+
+<div>
+	<input type="radio" id="b" name="q2" value="Salfish os">
+	<label for="Salfish os">Salfish os</label>
+</div>
+
+<div>
+	<input type="radio" id="c" name="q2" value="Oxygen os">
+	<label for="Oxygen os">Oxygen os</label>
+</div>
+
+<div>
+	<input type="radio" id="d" name="q2" value="Palm os">
+	<label for="Palm os">Palm os</label>
+</div>
+
+
+<p>Wnat is the name of Xiaomi's current android skin?</p>
+
+<div>
+	<input type="radio" id="a" name="q3" value="Ubuntu"
+				 checked>
+	<label for="Ubuntu">Ubuntu</label>
+</div>
+
+<div>
+	<input type="radio" id="b" name="q3" value="Oxygen os">
+	<label for="Oxygen os">Oxygen os</label>
+</div>
+
+<div>
+	<input type="radio" id="c" name="q3" value="Miui">
+	<label for="Miui">Miui</label>
+</div>
+
+<div>
+	<input type="radio" id="d" name="q3" value="One ui">
+	<label for="One ui">One ui</label>
+</div>
+
+<p>What is the name of the appstore on android?</p>
+
+<div>
+	<input type="radio" id="a" name="q4" value="Appstore"
+				 checked>
+	<label for="Appstore">Appstore</label>
+</div>
+
+<div>
+	<input type="radio" id="b" name="q4" value="Cydia">
+	<label for="Cydia">Cydia</label>
+</div>
+
+<div>
+	<input type="radio" id="c" name="q4" value="Google playstore">
+	<label for="Google playstore">Google playstore</label>
+</div>
+
+<div>
+	<input type="radio" id="d" name="q4" value="F-droid">
+	<label for="F-droid">F-droid</label>
+</div>
+
+<p>Can you do split screen multitasking on android?</p>
+
+<div>
+	<input type="radio" id="a" name="q5" value="yes"
+				 checked>
+	<label for="yes">yes</label>
+</div>
+
+<div>
+	<input type="radio" id="b" name="q5" value="no">
+	<label for="no">no</label>
+</div>
+
+<p>What is sideloading on android?</p>
+
+<div>
+	<input type="radio" id="a" name="q6" value="File transfer via nfc"
+				 checked>
+	<label for="File transfer via nfc">File transfer via nfc</label>
+</div>
+
+<div>
+	<input type="radio" id="b" name="q6" value="Installing applications from outside the playstore">
+	<label for="Installing applications from outside the playstore">Installing applications from outside the playstore</label>
+</div>
+
+<div>
+	<input type="radio" id="c" name="q6" value="Automatic app updates">
+	<label for="Automatic app updates">Automatic app updates</label>
+</div>
+
+<div>
+	<input type="radio" id="d" name="q6" value="Antivirus software">
+	<label for="Antivirus software">Antivirus software</label>
+</div>
+ &nbsp;
+<div>
+<button type="button">Submit </button>
+</div>
+</div>
+
+</body>
+</html>
